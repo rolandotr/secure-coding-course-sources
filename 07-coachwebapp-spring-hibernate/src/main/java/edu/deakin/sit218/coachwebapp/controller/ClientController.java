@@ -1,4 +1,4 @@
-package edu.deakin.sit218.coachwebapp;
+package edu.deakin.sit218.coachwebapp.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
